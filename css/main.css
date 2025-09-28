@@ -1,0 +1,131 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v4_23 {
+  width: 100%;
+  height: 1920px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v4_25 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v4_25.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v4_32 {
+  width: 314px;
+  height: 418px;
+  background: url("../images/v4_32.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 65%;
+  left: 730px;
+  overflow: hidden;
+}
+
+.v4_31 {
+  width: 313px;
+  height: 418px;
+  background: url("../images/v4_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 65%;
+  left: 389px;
+  overflow: hidden;
+}
+
+.v4_30 {
+  width: 314px;
+  height: 418px;
+  background: url("../images/v4_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 65%;
+  left: 49px;
+  overflow: hidden;
+}
+
+.v4_29 {
+  width: 345px;
+  height: 460px;
+  background: url("../images/v4_29.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 40%;
+  left: 527px;
+  overflow: hidden;
+}
+
+.v4_28 {
+  width: 347px;
+  height: 460px;
+  background: url("../images/v4_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 40%;
+  left: 150px;
+  overflow: hidden;
+}
+
+.v4_27 {
+  width: 80%;
+  height: 263px;
+  background: url(../images/v4_27.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  opacity: 1;
+  position: absolute;
+  top: 26%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  overflow: hidden;
+}
+
+.v4_26 {
+  width: 434px;
+  height: 175px;
+  background: url("../images/v4_26.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 70px;
+  left: 330px;
+  overflow: hidden;
+}
